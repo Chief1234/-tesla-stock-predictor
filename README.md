@@ -139,7 +139,7 @@ The notebook includes an install command for `tensorflow==2.15.0`, but the captu
 
 ## Author
 
-**Your Name**  
+Harshit Chandra (Aspiring Data Science and Analytics) 
 Data Science / Machine Learning Project
 
 ## License
